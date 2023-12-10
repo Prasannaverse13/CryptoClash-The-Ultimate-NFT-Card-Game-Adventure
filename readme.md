@@ -1,6 +1,8 @@
 # Avax Gods - Online Multiplayer Web3 NFT Card Game
 # Gameplay
 
+![Screenshot (360)](https://github.com/Prasannaverse13/CryptoClash-The-Ultimate-NFT-Card-Game-Adventure/assets/116105281/1d1235fb-9bae-4554-8b62-84b10202a495)
+
 https://github.com/Dev-Hoax/NFT-CARD-GAME/assets/85429816/4e51d565-2982-4727-8eef-bf73357b0c6e
 
 ## Instructions on setting up the Web3 part of the project
